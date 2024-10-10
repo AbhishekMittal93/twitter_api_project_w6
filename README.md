@@ -10,10 +10,12 @@ This project demonstrates how to interact with the Twitter API using Golang. It 
 ## Prerequisites
 - A Twitter Developer account with API keys and tokens generated.
 - Create a .env file in the root directory of the project with the following keys:
+```env
 TWITTER_API_KEY=your-api-key
 TWITTER_API_SECRET_KEY=your-api-secret-key
 TWITTER_ACCESS_TOKEN=your-access-token
 TWITTER_ACCESS_TOKEN_SECRET=your-access-token-secret
+```
 - A valid .env file containing the Twitter API keys and tokens.
 
 ## Technologies Used
