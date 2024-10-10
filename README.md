@@ -8,7 +8,6 @@ This project demonstrates how to interact with the Twitter API using Golang. It 
 - **Delete a Tweet**: Delete an existing tweet by providing its tweet ID.
 
 ## Prerequisites
-
 - A Twitter Developer account with API keys and tokens generated.
 - Create a .env file in the root directory of the project with the following keys:
 TWITTER_API_KEY=your-api-key
